@@ -161,7 +161,8 @@ For Windows machines, here is a detailed [guide](https://www.purdue.edu/science/
 
 Using your terminal, do the following:
 - Create a folder called `ece362` under your home directory (where you should start by default) and `cd` inside it.
-- Clone your lab 8 repository that you accepted from GitHub Classroom.
+- Clone this repository - https://github.com/ece362-purdue/riscv-lab-8.0
+  - This is not to be submitted, it's provided as a sample lab.
 
 Once it's cloned, you'll need to reopen the folder in VScode so that all the automation we've set up for you can be properly registered by VScode.  Click File > Open Folder, navigate to the folder you just cloned, and open it.  
 
